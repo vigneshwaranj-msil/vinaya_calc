@@ -1,0 +1,26 @@
+{
+  "name": "vinaya_calc_repo",
+  "version": "1.0.0",
+  "description": "Simple calc application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vigneshwaranj-msil/vinaya_calc.git"
+  },
+  "keywords": [
+    "Calc",
+    "webapp"
+  ],
+  "author": "Vinaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vigneshwaranj-msil/vinaya_calc/issues"
+  },
+  "homepage": "https://github.com/vigneshwaranj-msil/vinaya_calc#readme",
+  "dependencies": {
+    "webpack": "^5.38.1"
+  }
+}
